@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    scroll-behavior: smooth;
+}
+
+.card1{
+    border:2px  solid black;
+    border-radius: 20px 20px 20px 20px;
+    width:350px ;
+    margin:10px ;
+    padding:20px;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    width:270px ;
+    margin:10px ;
+    padding:5px;
+    line-height:30px;
+   
+}
+
+
+img{ 
+    width: 100px;
+    height: auto;
+}
+.try{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap:10px;
+    direction: rtl;
+
+   
+}
+
+.card2{
+    background-color: black;
+    border:2px  solid black;
+    border-radius: 20px 20px 20px 20px;
+    width:350px ;
+    margin:10px ;
+    padding:20px;
+}
+.para1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width:270px ;
+    margin:10px ;
+    padding:5px;
+    line-height:30px;
+}
+.try1{
+    margin:20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap:10px;
+    direction: rtl;
+
+}
